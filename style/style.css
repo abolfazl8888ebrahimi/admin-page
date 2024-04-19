@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  input[type=text], select{
+  
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  box-sizing: border-box;
+  position: relative;
+  left: 21%;
+  top: 300px;
+  }
+  
+  input[type=submit]{
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  box-sizing: border-box;
+  position: relative;
+  right: 240px;
+  top: 370px;
+  }
